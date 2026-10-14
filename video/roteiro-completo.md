@@ -1,6 +1,6 @@
 # Roteiro completo — vídeo demonstrativo (até 4 min)
 
-Rascunho detalhado (Claude), com timing sugerido e pontos técnicos a
+Rascunho detalhado, com timing sugerido e pontos técnicos a
 cobrir em cada bloco. Use como referência; o roteiro de locução
 (`roteiro-locucao.md`) é a versão enxuta pra ler/adaptar na hora.
 
